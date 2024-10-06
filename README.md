@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Jake
-- 👀 I’m interested in AI, bioML, structural biology, 3D, and spatial intelligence
+- 👀 I’m interested in AI, bioML, structural biology, spatial intelligence, and 3D
