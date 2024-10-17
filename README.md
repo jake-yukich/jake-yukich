@@ -6,3 +6,5 @@ My current interests include:
 - Computational drug discovery
 - Structural biology
 - 3D
+
+(This is a new public-facing, non-proprietary account; repositories and code samples currently under construction :)
