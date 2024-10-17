@@ -7,4 +7,6 @@ My current interests include:
 - Structural biology
 - 3D
 
-(This is a new public-facing, non-proprietary account; repositories and code samples currently under construction :)
+##
+
+(This is a new public-facing, non-proprietary account; repositories and code samples are currently under construction :)
