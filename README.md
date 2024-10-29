@@ -9,4 +9,4 @@ My current interests include:
 
 ##
 
-(This is a new public-facing, non-proprietary account; repositories and code samples are currently under construction.)
+(This is a new public-facing, non-proprietary account; repositories and code samples are currently in progress.)
