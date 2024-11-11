@@ -2,6 +2,6 @@ Hi, I’m Jake. I have a background in both computer science and molecular biolo
 
 My current interests include:
 * AI + BioML
+* 3D computer graphics
 * Structural biology
 * Computational drug discovery
-* 3D
