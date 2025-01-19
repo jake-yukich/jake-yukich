@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-Hi, I’m Jake. I have a background in computer science and molecular biology, with experience spanning software engineering, machine learning, and molecular biology.
+Hi, I’m Jake. I have a background in computer science and molecular biology, with experience spanning software engineering, machine learning, and biochemistry.
 
 My current interests include:
 * AI / AI Safety
 * BioML
+* Model interpretability
 * 3D computer graphics
 * Photography
 
