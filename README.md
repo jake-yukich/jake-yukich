@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m Jake. I have a background in computer science and molecular biology, with experience spanning software engineering, machine learning, and biochemistry.
-
-My current interests include:
-* AI / AI Safety
-* BioML
-* Model interpretability
-* 3D computer graphics
-* Photography
+Hi, I’m Jake. I have a background in computer science and molecular biology, with experience spanning software engineering, machine learning, and biochemistry. My current interests include bioML, AI safety (e.g. with respect to biosecurity), and photography.
 
 <!--
 **jake-yukich/jake-yukich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
