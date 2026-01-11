@@ -3,7 +3,6 @@
 Hi, I’m Jake. I have a background in computer science and molecular biology, with experience spanning software engineering, machine learning, and biochemistry.
 
   * 🧠 Currently thinking about AI safety and biosecurity
-  * ✍️ My [Substack](https://aizzz.substack.com/) (coming soon)
   * 📫 Reach me at jake.yukich@gmail.com
   * 📍 San Francisco
 
